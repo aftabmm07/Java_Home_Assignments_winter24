@@ -1,4 +1,4 @@
-# Java_Home_Assignments_winter24
+# Java_Home_Assignment#1_winter24
 
 Matriculation number : 7222045
 
